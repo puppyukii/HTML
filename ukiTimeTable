@@ -1,0 +1,92 @@
+<html>
+<head>
+  <style>
+table{
+  border:1px solidblack;
+}
+th,td {
+  text-align: center;
+}
+table,td,th{
+  border: 1px solid black;}
+td
+{width: 500px; height: 25px;
+}
+table{
+  border-collapse: collapse;
+}
+  th{
+    background: blue;
+    color: black;
+  }
+</style>
+</head>
+<body>
+<table>
+<caption>Uki3 Time Table</caption>
+<tr bgcolor="blue" >
+  <th>Time slot</th>
+  <th>Monday</th>
+  <th>Tuesday</th>
+  <th>wednesday</th>
+  <th>Thursday</th>
+  <th>Friday</th>
+  <th>Saturday</th>
+  <th>Sunday</th>
+  </tr>
+<tr>
+  <td bgcolor="#CCCCFF"> 9-9.30</td>
+  <td bgcolor="lightblue"> Fitness Club Live Fit</td>
+  <td bgcolor="lightblue">Fitness Club Live Fit</td>
+  <td bgcolor="lightblue">Fitness Club Live Fit</td>
+  <td bgcolor="lightblue">Fitness Club Live Fit</td>
+  <td bgcolor="lightblue">Fitness Club Live Fit</td>
+  <td bgcolor="lightgreen"rowspan="4" colspan="2">Specil Day Workshops maybe held and a weekday leave will be given instead.
+  </tr>
+  <tr>
+    <td bgcolor="#CCCCFF">9.30-10.00</td>
+    <td bgcolor="lightblue">Touchtyping and blogging</td>
+    <td bgcolor="lightblue">Touchtyping and blogging</td>
+    <td bgcolor="lightblue">Touchtyping and blogging</td>
+    <td bgcolor="lightblue">Touchtyping and blogging</td>
+    <td bgcolor="lightblue">Touchtyping and blogging</td>
+    </tr>
+    <tr>
+      <td bgcolor="#CCCCFF">10-1</th>
+      <td bgcolor="#B57EDC">Programming Theory/Practicals</td>
+      <td bgcolor="#B57EDC">Programming Theory/Practicals</td>
+      <td bgcolor="#C71585">English-BC Elementary</td>
+      <td bgcolor="#C71585">English-BC Elementary</td>
+      <td bgcolor="#B57EDC">Programming Theory/Practicals</td>
+    </tr>
+    <tr>
+      <td bgcolor="#CCCCFF">1-2</td>
+      <td bgcolor="orange"colspan="5"align="center">Lunch Break-Badminton,Carom</td>
+    </tr>
+    <tr>
+        <td bgcolor="#CCCCFF">2-4</td>
+        <td bgcolor="#B57EDC">Programming Theory/Project</td>
+        <td bgcolor="yellow">Personal Coaching</td>
+        <td bgcolor="#B57EDC">Programming Theory/Project</td>
+        <td bgcolor="#B57EDC" >Programming Theory/Project</td>
+        <td bgcolor="yellow">Personal Coaching</td>
+        <td> </td>
+        <td bgcolor="pink" rowspan="2">14.00-16.30<br>BC Intermeditate
+      </tr>
+      <tr>
+        <td bgcolor="#CCCCFF">4-4.15</td>
+        <td bgcolor="orange"colspan="5"align"center">Tea Break</td>
+      </tr>
+      <tr>
+        <td bgcolor="#CCCCFF">4.15-5</td>
+        <td bgcolor="red">Uki Gavl Club</td>
+        <td bgcolor="yellow">Uki Fitness Club</td>
+        <td bgcolor="#003153">Tech Talk</td>
+        <td bgcolor="yellow">Uki Fitness Club</td>
+        <td bgcolor="red">Uki Gavl Club</td>
+        <td></td>
+        <td></td>
+      </tr>
+    </table>
+    </body>
+    </html>
